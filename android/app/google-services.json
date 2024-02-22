@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139211487937",
+    "project_id": "fir-explore-af5a2",
+    "storage_bucket": "fir-explore-af5a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139211487937:android:ffa89c029683ca68e8f240",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvikjojZOrJH4EHwwC2n3rid9IbZ9hTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
